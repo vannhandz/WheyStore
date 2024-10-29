@@ -1,0 +1,223 @@
+{
+  "whey": [
+    {
+      "id": "4a78",
+      "name": "HYDRO PURE ",
+      "img": "https://www.wheystore.vn/images/products/2023/11/28/large/hydropure-4-5lbs_1701141512.jpg",
+      "price": "390000000",
+      "quantity": "10000",
+      "detail": "abc"
+    },
+    {
+      "id": "2dc5",
+      "name": "ON GOLF STANDARD",
+      "img": "https://www.wheystore.vn/images/products/2023/12/13/large/gold-standard-100-whey-5lbs-anh-dai-dien_1702452595.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "ok"
+    },
+    {
+      "id": "80db",
+      "name": "MUTANT MASS EXTREME",
+      "img": "https://www.wheystore.vn/images/products/2023/12/14/large/mass-extreme-2500-12lbs_1702548750.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc"
+    },
+    {
+      "id": "936b",
+      "name": "LABRADA MUSCLE MASS",
+      "img": "https://www.wheystore.vn/images/products/2023/12/14/large/muscle-mass-gainer-12lbs_1702547889.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc"
+    }
+  ],
+  "tangsm": [
+    {
+      "id": "1",
+      "name": "CREATINE OSTROVIT",
+      "img": "./img/ostrovit.jpg",
+      "price": 898,
+      "quantity": "gjh",
+      "detail": "okok"
+    },
+    {
+      "id": "3",
+      "name": "PUMB 3G",
+      "img": "./img/pump3g.jpg",
+      "price": "100",
+      "quantity": "999999999",
+      "detail": "ok"
+    },
+    {
+      "id": "4",
+      "name": "APE PRE-WORKOUT",
+      "img": "./img/abe.jpg",
+      "price": 400,
+      "quantity": "99",
+      "detail": "okkk"
+    },
+    {
+      "id": "b85b",
+      "name": "AMINO ACID",
+      "img": "https://www.wheystore.vn/images/products/2023/12/22/large/nutricost-eaa-powder-30-servings_1703235564.jpg",
+      "price": "290",
+      "quantity": "99",
+      "detail": "abc22"
+    },
+    {
+      "id": "310c",
+      "name": "MUTANT BCAA",
+      "img": "https://www.wheystore.vn/images/products/2023/12/22/large/mutant-bcaa-30-servings_1703230062.jpg",
+      "price": "365",
+      "quantity": "99",
+      "detail": "abc"
+    },
+    {
+      "id": "fb9b",
+      "name": "JNX THE CURSE",
+      "img": "https://www.wheystore.vn/images/products/2024/01/08/large/the-curse-50-servings_1704677815.jpg",
+      "price": "123",
+      "quantity": "123",
+      "detail": "ANHT"
+    },
+    {
+      "id": "9204",
+      "name": "ABE PUMP",
+      "img": "https://www.wheystore.vn/images/products/2024/01/18/large/abe-pump-40-servings_1705546788.jpg",
+      "price": "100",
+      "quantity": "12345",
+      "detail": "HEHE"
+    },
+    {
+      "id": "1984",
+      "name": "NUTRABOLICS",
+      "img": "https://www.wheystore.vn/images/products/2023/12/28/resized/anabolic-state-elite-21-servings_1703734226.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc"
+    }
+  ],
+  "vitamin": [
+    {
+      "id": "1",
+      "name": "VITAMIN K2 + D3",
+      "img": "./img/d3k2.jpg",
+      "price": "100",
+      "quantity": "12",
+      "detail": "okok"
+    },
+    {
+      "id": "2",
+      "name": "OMEGA 3",
+      "img": "./img/omg3.jpg",
+      "price": "390 $",
+      "quantity": "100",
+      "detail": "abc"
+    },
+    {
+      "id": "3",
+      "name": "PUMB 3G",
+      "img": "./img/fishoil.jpg",
+      "price": "100",
+      "quantity": "999999999",
+      "detail": "ok"
+    },
+    {
+      "id": "4",
+      "name": "STRENGTH FISH OIL",
+      "img": "./img/stren.jpg",
+      "price": 100,
+      "quantity": "99",
+      "detail": "ok"
+    },
+    {
+      "id": "a2a1",
+      "name": "EVL VITAMIN D3K2",
+      "img": "https://www.wheystore.vn/images/products/2024/01/24/large/evl-vitamin-d3-k2-60-servings_1706090395.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc"
+    },
+    {
+      "id": "ec48",
+      "name": "OSTROVIT VIT&MIN",
+      "img": "https://www.wheystore.vn/images/products/2024/01/25/large/ostrovit-vit-min-90-vien_1706158105.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc"
+    },
+    {
+      "id": "af1e",
+      "name": "NOW ULTRA FISH OIL",
+      "img": "https://www.wheystore.vn/images/products/2024/01/25/large/now-ultra-omega-3-fish-oil-90-vien_1706149544.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc22"
+    },
+    {
+      "id": "d27f",
+      "name": "VITABOLICS",
+      "img": "https://www.wheystore.vn/images/products/2024/01/24/large/vitabolic-196-vien_1706083011.jpg.webp",
+      "price": "100",
+      "quantity": "100",
+      "detail": "abc"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "nhan",
+      "email": "nhan@gmail.com",
+      "password": "nhan"
+    },
+    {
+      "id": "1",
+      "name": "tuan",
+      "email": "tuan@gmail.com",
+      "password ": "tuan"
+    },
+    {
+      "id": "6954",
+      "email": "admin1@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "3816",
+      "name": "tuấn1",
+      "email": "tuan1@gmail.com",
+      "password": "tuan"
+    },
+    {
+      "id": "d450",
+      "name": "nhan",
+      "email": "test123@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "af7d",
+      "name": "nhan",
+      "email": "test123@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "27ac",
+      "name": "nhan",
+      "email": "test123@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "03c9",
+      "name": "tuan1",
+      "email": "qwe@gmail.com",
+      "password": "qwe"
+    },
+    {
+      "id": "dbcf",
+      "name": "nhan",
+      "email": "alo@gmail.com",
+      "password": "alo"
+    }
+  ]
+}
